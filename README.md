@@ -95,6 +95,7 @@ O foco é praticidade para projetos de dados: apenas fontes oficiais (governo, i
 - [Querido Diario (Open Knowledge Brasil)](https://github.com/okfn-brasil/querido-diario): Diarios oficiais de municipios brasileiros convertidos de PDF para texto aberto, com API publica e raspadores; dados CC-BY para linguagem administrativa/juridica.
 - [Corpus Brasileiro (PUC-SP / FAPESP, via Linguateca)](https://www.linguateca.pt/acesso/desc_corpus.php?corpus=CBRAS): Coletanea de ~1 bilhao de palavras do portugues brasileiro contemporaneo, etiquetada morfossintaticamente; consulta por concordancias e listas de frequencia via AC/DC.
 - [Portuguese-NLP (lista curada de recursos)](https://github.com/ajdavidl/Portuguese-NLP): Indice/portal curado com 100+ datasets, lexicos, embeddings, modelos e ferramentas de PLN para portugues (PT-BR e PT-PT); ponto de partida para descoberta de recursos.
+- [Crime Brasil](https://crimebrasil.com.br) : Open data platform consolidating Brazilian public-safety microdata (3M+ incidents, city and neighbourhood level, 2022-2026) with a free API.
 
 ## Eleições, Segurança Pública e Justiça (TSE, criminalidade, CNJ)
 
